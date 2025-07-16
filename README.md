@@ -85,3 +85,21 @@ src/
 │ └── [ToolPages].jsx # Individual tools (ColorConverter, RegexHelper etc.)
 ├── assets/ # Icons, logos, images
 └── main.jsx # Entry point
+
+📌 Contributing
+We welcome contributions!
+Please open issues or pull requests to add tools, improve UI, or fix bugs.
+
+📄 License
+MIT License – Free to use and modify.
+
+🙌 Acknowledgements
+Thanks to:
+
+Firebase for blazing-fast hosting
+
+OpenAI & Google Gemini for generative APIs
+
+You, for visiting this repo 💙
+
+
