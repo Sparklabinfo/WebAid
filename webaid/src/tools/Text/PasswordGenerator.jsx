@@ -118,7 +118,7 @@ const PasswordGenerator = () => {
       contents: [{ parts: [{ text: prompt }] }]
     };
 
-    const apiKey = 'AIzaSyDahqjfZ90L-7mvPVHob_yOQAxBuJuM0CQ';
+    const apiKey = '';
     const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
     try {
